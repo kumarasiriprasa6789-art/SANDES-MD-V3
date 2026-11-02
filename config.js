@@ -18,7 +18,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "oAF0zYjC#MOjWYgNMgvW5M9MB5vR1c07bdykcI9quIOaLbb-701Y",
+SESSION_ID: process.env.SESSION_ID || "xEM0xSLD#s57eBPsICqITpD7FefzgJXUzS0oNqpPz6eJX-VB1LWQ",
 ALIVE_IMG : process.env.ALIVE_IMG || "https://upld.zone.id/uploads/d4i0x5iq/v3-logo.webp",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true", 
 };
